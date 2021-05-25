@@ -18,7 +18,7 @@
 > [프로젝트PPT](https://github.com/taeyoung94/Company_analysis/blob/main/Project_no.1/1%EC%A3%BC%EC%B0%A8%20ppt.pdf)/ [프로젝트코드](https://nbviewer.jupyter.org/github/taeyoung94/Company_analysis/blob/main/Project_no.1/Project1_%EC%9B%90%ED%8B%B0%EB%93%9C_%EA%B9%80%ED%83%9C%EC%98%81.ipynb)  
 
 VC 시장이 커지는 시기에 먼저 유니콘 기업을 발굴하여 광고한다면, 더 큰 수익을 기대 할 수 있다.
-
+************************************
 ## 2. 모두의 주차장 <img src="https://user-images.githubusercontent.com/78400270/119437365-f29bca80-bd58-11eb-91e9-ca2423211bf1.jpeg" width="50" height="30">
 1) ✍ Summary
 - **활용DB**: 2020년 모두의 주차장 앱 결제 데이터
@@ -38,7 +38,7 @@ VC 시장이 커지는 시기에 먼저 유니콘 기업을 발굴하여 광고�
 > [프로젝트PPT](https://github.com/taeyoung94/Company_analysis/blob/main/Project_no.2/team2_wanted_week2_ppt.pdf)/[프로젝트코드](https://nbviewer.jupyter.org/github/taeyoung94/Company_analysis/blob/main/Project_no.2/Project2_%EB%AA%A8%EB%91%90%EC%BB%B4%ED%8D%BC%EB%8B%88_%EA%B9%80%ED%83%9C%EC%98%81.ipynb)
 
 스마트 파킹 사업이 모빌리티 사업의 종착지, 수요예측을 기반으로 도약 할 시기입니다.
-
+************************************
 ## 3. 클로젯셰어 <img src="https://user-images.githubusercontent.com/78400270/119438545-6b9c2180-bd5b-11eb-883d-7a33e8647ed8.jpeg" width="50" height="30">
 1) ✍ Summary
 - **활용DB**: 2020년 클로젯셰어 결제 데이터
@@ -58,4 +58,4 @@ VC 시장이 커지는 시기에 먼저 유니콘 기업을 발굴하여 광고�
 > [프로젝트코드&인포그래픽](https://nbviewer.jupyter.org/github/taeyoung94/Company_analysis/blob/main/Project_no.3/Project3_%ED%81%B4%EB%A1%9C%EC%A0%AF%EC%85%B0%EC%96%B4_%EA%B9%80%ED%83%9C%EC%98%81.ipynb)
 
 연간 매출 증가율 평균 200%, 자동화 시스템 구현으로 플랫폼 사업을 확대하여 많은 고객에게 높은 서비스 만족도를 제공 할 수 있습니다.
-
+************************************
