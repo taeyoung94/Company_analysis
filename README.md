@@ -38,3 +38,10 @@ VC 시장이 커지는 시기에 먼저 유니콘 기업을 발굴하여 광고�
 > [프로젝트PPT](https://github.com/taeyoung94/Company_analysis/blob/main/Project_no.2/team2_wanted_week2_ppt.pdf)/[프로젝트코드](https://nbviewer.jupyter.org/github/taeyoung94/Company_analysis/blob/main/Project_no.2/Project2_%EB%AA%A8%EB%91%90%EC%BB%B4%ED%8D%BC%EB%8B%88_%EA%B9%80%ED%83%9C%EC%98%81.ipynb)
 
 스마트 파킹 사업이 모빌리티 사업의 종착지, 수요예측을 기반으로 도약 할 시기.
+
+## 3. 클로젯셰어<img src="https://user-images.githubusercontent.com/78400270/119438545-6b9c2180-bd5b-11eb-883d-7a33e8647ed8.jpeg" width="50" height="30">
+1) ✍ Summary
+- **활용DB**: 
+- **분석목표**: 
+- **성과**: 
+- **역할**: 팀장(발표)/ 비지니스 분석, EDA를 기반으로 한 방향성 제시, 비지니스 전략 분석, 머신러닝 모델링
